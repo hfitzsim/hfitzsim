@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hfitzsim
-- 👀 I’m interested in front end web development. 
-- 🌱 I’m currently learning HTML, CSS, React, NodeJS, MongoDB, Docker, and how to use GitHub!
+- 👀 I’m enrolled in a computer information systems masters program with a concentration in web app development.
+- 🌱 I’m currently learning HTML, CSS, React, NodeJS, MongoDB, Docker, and how to use Git.
 - 💞️ I’m looking to collaborate on anything related to the skills that I'm learning.
 - 📫 I can be reached at hannahfitzsimmons@gmail.com.
 
