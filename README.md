@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hfitzsim. Welcome to my GitHub!
-- 👩🏻‍💻 I’m a grad student at BU working towards my MS in Computer Info Systems and concentrating in Web App Development. 
+- 👩🏻‍💻 I’m a grad student at BU working towards my MS in Computer Info Systems/Web App Development. 
 - 💞️ Thank you for visiting! Please feel free to reach out at hannahfitzsimmons@gmail.com with any questions. 
 
 <!---
